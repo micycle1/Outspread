@@ -26,3 +26,7 @@ Any unclaimed territory cut off from your opponents territory will eventually be
 <h1 align="center">
 <img src="/assets/screenshot1.PNG"/>
 </h1>
+
+## Libraries
+- [Processing](https://processing.org)
+- [Handy](https://www.gicentre.net/handy)
